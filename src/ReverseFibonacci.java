@@ -23,6 +23,7 @@ public class ReverseFibonacci {
 	public static void main(String[] args) {
 		//System.out.print(n1+" "+n2);
 		int i=2;
+		System.out.println("HI");
 		
 		a[0]=n1;
 		a[1]=n2;
