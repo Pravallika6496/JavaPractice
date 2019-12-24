@@ -13,6 +13,7 @@ public class ArrayListPractice {
 		System.out.println(al);  //[Hi, Java, Collections]
 		System.out.println(al.indexOf("Java"));  //1
 		al.add(1, "Hello");
+		System.out.println(al.size());  //4
 		System.out.println(al);  //[Hi, Hello, Java, Collections]
 		System.out.println(al.indexOf("Java"));  //2
 		System.out.println(al.get(3));  //Collections
